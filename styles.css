@@ -1,0 +1,62 @@
+ body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #C784C5;
+      color: #fff;
+      padding: 10px 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #DAA2D8;
+      padding: 10px 20px;
+      text-align: center;
+    }
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      margin: 0 10px;
+    }
+    .content {
+      padding: 20px;
+      text-align: center;
+    }
+            .container {
+            max-width: 600px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        .menu-item {
+            border-bottom: 1px solid #ccc;
+            padding: 10px 0;
+        }
+		
+	/* Styles for sections */
+section {
+    background-color: #F0F0F0;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+section h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+section p {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+section ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+section ul li {
+    margin-bottom: 10px;
+}
